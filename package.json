@@ -1,0 +1,19 @@
+{
+  "name": "image-icon-optimizer",
+  "version": "1.0.0",
+  "description": "Tool for compressing images (jpg, jpeg, png, gif and SVG), generating custom icon fonts and SVG sprite.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shariult/image-icon-optimizer.git"
+  },
+  "author": "Md. Shariul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shariult/image-icon-optimizer/issues"
+  },
+  "homepage": "https://github.com/shariult/image-icon-optimizer#readme"
+}

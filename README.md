@@ -13,7 +13,7 @@ Tool for compressing images (jpg, jpeg, png, gif and SVG), generating custom ico
 **Node.JS** is required. Install it then run following code one by one in terminal from project directory,
 
 ```bash
-npm i -D gulp gulp-cli gulp-imagemin@7 gulp-svgstore svgtofont@4
+pnpm add -D gulp gulp-cli gulp-imagemin@7 gulp-svgstore svgtofont@4
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ Create a folder for each project. This tool can work on multiple projects. Simpl
 Each project must have "img" and "icons" folder. Put all images in "img" folder and SVG icons in "icons" folder. All files will be exported in the "dist" folder. Run following command to process images and icons,
 
 ```bash
-npm run build
+pnpm build
 ```
 
 "dist" folder will contain all compressed images.  

@@ -13,7 +13,7 @@ Tool for compressing images (jpg, jpeg, png, gif and SVG), generating custom ico
 **Node.JS** is required. Install it then run following code one by one in terminal from project directory,
 
 ```bash
-pnpm add -D gulp gulp-cli gulp-imagemin@7 gulp-svgstore svgtofont@4
+pnpm add -D gulp gulp-cli gulp-imagemin@7 gulp-svgstore svgtofont@4 && pnpm approve-builds
 ```
 
 ## Usage
